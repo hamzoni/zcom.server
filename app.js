@@ -1,3 +1,4 @@
+const fs = require('fs')
 const express = require('express')
 const vhost = require('vhost')
 const dotenv = require('dotenv')
